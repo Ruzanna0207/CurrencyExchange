@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="currency_exchange">Currency exchange</string>
+    <string name="current_exchange_rates">Current exchange rates</string>
+    <string name="current_exchange_rates_to_usd">Current exchange rates to USD: </string>
+    <string name="text_button_click">Click to see current exchange rates</string>
+    <string name="usd">$</string>
+    <string name="enter_value">Please, enter your value</string>
+    <string name="your_value">Your entered value is </string>
+    <string name="selected_currency">Selected currency: </string>
+</resources>
